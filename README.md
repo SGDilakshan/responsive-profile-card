@@ -19,12 +19,5 @@ A clean and modern **Profile Card UI** built with **HTML** and **CSS**. This des
 - [Boxicons](https://boxicons.com/) for icons
 - Google Fonts (`Poppins`)
 
-## 🌐 CDN Resources Used
-📦 Boxicons:
-https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css
-
-✍️ Google Fonts (Poppins):
-https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap
-
 ## 🙋‍♂️ Author
 Sivanathan Dilakshan
